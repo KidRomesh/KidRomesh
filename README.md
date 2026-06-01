@@ -34,7 +34,7 @@ My primary focus is backend engineering using Java, Spring Boot, REST APIs, and 
 ## 💼 Professional Experience
 
 ### Tata Consultancy Services (TCS)
-**Software Engineer** | 2023 - Present
+**Software Engineer** | 2022 - Present
 
 - Delivered enterprise application integrations across **12+ systems spanning 4 global regions**
 - Developed and maintained backend services and REST APIs using **Java and Spring Boot**
@@ -110,13 +110,13 @@ My primary focus is backend engineering using Java, Spring Boot, REST APIs, and 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|-------------|
-| CRM Frontend | Enterprise-style CRM application with dashboards, modules and role-based navigation | Angular, TypeScript |
-| CRM Backend API | REST API supporting CRM operations and business workflows | Node.js, TypeScript, TypeORM |
-| HRMS Skeleton | Scalable HRMS foundation implementing lazy loading architecture | Angular |
-| Anime Content Application | Dynamic content browsing platform consuming external APIs | Angular, TypeScript |
-| JSONPlaceholder Demo | Java application demonstrating API consumption patterns | Java |
+| Project | Description | Stack |
+|---|---|---|
+| [CRM Frontend](https://github.com/KidRomesh/FinalYearProject) | Full CRM system frontend with dashboards, modules, and lazy loading | Angular, TypeScript, SCSS |
+| [CRM Backend API](https://github.com/KidRomesh/Backend2) | REST API powering the CRM — built with TypeORM and Node.js | TypeScript, TypeORM, Node.js |
+| [Anime Content App](https://github.com/KidRomesh/Anime-content1) | Angular app for browsing and displaying anime content | Angular, TypeScript |
+| [HRMS Skeleton](https://github.com/KidRomesh/Lazyloadingbase) | Lazy-loaded base structure for an HR Management System | Angular |
+| [JSONPlaceholder Demo](https://github.com/KidRomesh/ApiTypicode) | Java project consuming a fake REST API for practice | Java |
 
 ---
 
@@ -131,6 +131,15 @@ My primary focus is backend engineering using Java, Spring Boot, REST APIs, and 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KidRomesh&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidRomesh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
@@ -140,6 +149,8 @@ I'm always interested in discussing:
 - System Design
 - Backend Engineering
 - Open Source Projects
+
+---
 
 <p align="center">
   <i>Building scalable solutions, one API at a time 🚀</i>
