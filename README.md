@@ -120,13 +120,15 @@ My primary focus is backend engineering using Java, Spring Boot, REST APIs, and 
 
 ---
 
-| What | Detail |
+## 🏢💼 Career Snapshot
+
+| Professional Overview | Detail |
 |---|---|
 | 💼 Current Role | Software Engineer @ TCS |
-| 🚀 Specialization | Enterprise Application Integrations |
 | ☕ Backend Stack | Java, Spring Boot, REST APIs |
-| 🔐 Integration Experience | OAuth 2.0, Microsoft Graph API, ServiceNow, Oracle HRMS |
-| 🌍 Impact | Delivered integrations across 12+ systems spanning 4 global regions |
+| 🔗 Enterprise Expertise | ServiceNow, Oracle HRMS, Microsoft Graph |
+| 🌍 Experience | 12+ Enterprise Systems Across 4 Regions |
+| 🎯 Current Focus | Backend Engineering & System Integrations |
 | 📍 Location | Chennai, India |
 
 ---
