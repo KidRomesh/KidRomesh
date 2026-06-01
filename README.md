@@ -6,17 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/romeshraj-komalarani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:romeshrajsk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
@@ -65,23 +62,20 @@ My primary focus is backend engineering using Java, Spring Boot, REST APIs, and 
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-
 ![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
 ### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
@@ -89,11 +83,8 @@ My primary focus is backend engineering using Java, Spring Boot, REST APIs, and 
 ### Enterprise Platforms
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge)
-
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge)
-
 ![Active Directory](https://img.shields.io/badge/Active_Directory-005A9C?style=for-the-badge)
 
 ---
@@ -101,9 +92,7 @@ My primary focus is backend engineering using Java, Spring Boot, REST APIs, and 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -131,12 +120,18 @@ My primary focus is backend engineering using Java, Spring Boot, REST APIs, and 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KidRomesh&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidRomesh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=KidRomesh&color=blue&style=for-the-badge)
+
+| What | Detail |
+|---|---|
+| 💼 Current Role | Software Engineer @ TCS |
+| 🚀 Specialization | Enterprise Application Integrations |
+| ☕ Backend Stack | Java, Spring Boot, REST APIs |
+| 🔐 Integration Experience | OAuth 2.0, Microsoft Graph API, ServiceNow, Oracle HRMS |
+| 🌍 Impact | Delivered integrations across 12+ systems spanning 4 global regions |
+| 📍 Location | Chennai, India |
 
 ---
 
