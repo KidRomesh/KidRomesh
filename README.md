@@ -120,10 +120,6 @@ My primary focus is backend engineering using Java, Spring Boot, REST APIs, and 
 
 ---
 
-## 📈 Coding Activity
-
-![Profile views](https://komarev.com/ghpvc/?username=KidRomesh&color=blue&style=for-the-badge)
-
 | What | Detail |
 |---|---|
 | 💼 Current Role | Software Engineer @ TCS |
