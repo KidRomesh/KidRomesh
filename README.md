@@ -56,14 +56,6 @@ I'm a full-stack developer based in Chennai with a passion for building structur
 | [HRMS Skeleton](https://github.com/KidRomesh/Lazyloadingbase) | Lazy-loaded base structure for an HR Management System | Angular |
 | [JSONPlaceholder Demo](https://github.com/KidRomesh/ApiTypicode) | Java project consuming a fake REST API for practice | Java |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KidRomesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidRomesh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
